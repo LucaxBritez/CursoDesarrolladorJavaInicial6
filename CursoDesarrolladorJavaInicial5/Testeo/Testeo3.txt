@@ -1,0 +1,5 @@
+2, 10, Jamon
+5, 20, Leche
+1, 200, Monitor
+2, 800, Televisor
+12, 100, Manzana
